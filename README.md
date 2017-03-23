@@ -1,4 +1,4 @@
 # sblitz
 Read text faster speed
 
-{% include LICENSE %}
+{% include_relative LICENSE %}
